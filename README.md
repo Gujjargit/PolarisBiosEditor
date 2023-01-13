@@ -1,7 +1,9 @@
 # PolarisBiosEditor v1.7.6
 
 [Download PolarisBiosEditor v1.7.6 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor1.7.6.zip)
+-----------------------------------------------------------------------------------------------------------------
 [Download PolarisBiosEditor v1.7.0 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor170.zip)
+-----------------------------------------------------------------------------------------------------------------
 [Download PolarisBiosEditor v1.6.7 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor-1.6.7-master.zip)
 -----------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/98729987/212367484-718fe836-2feb-44a9-80fe-57efe1fb668b.png)
