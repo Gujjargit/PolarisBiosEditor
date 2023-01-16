@@ -4,28 +4,16 @@
 -----------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/98729987/212367484-718fe836-2feb-44a9-80fe-57efe1fb668b.png)
 -----------------------------------------------------------------------------------------------------------------
-### Buy mining bios with performance timings! https://mining-bios.eu/
-**Polaris Bios Editor 3 PRO https://mining-bios.eu/product/polaris-bios-editor-3-pro-pbe-3-pro-performance-timings/**
-
-Bios mod guide: https://bitcointalk.org/index.php?topic=1954245.0
-
-If you don't trust the EXE just build on Linux with ```sh build.sh```. Quick and easy.
-
-### Important: You need to disable SecureBoot / Activate CSM in your
-### Motherboard UEFI because the modification will make
-### the cryptographic signature invalid.
-
 VirusTotal Report: https://www.virustotal.com/de/file/da96cd604093c686e8b1488726ae10a43a550aea5aaba0c0f308183b86f340f3/analysis/1505395469/
++ 0/58. If your AV warns you about a virus/trojan, consider it as false positive.
 
-0/58. If your AV warns you about a virus/trojan, consider it as false positive.
+## Notes
++ Fork from lojkinKot
++ works on linux with mono, executable is build against .net 3.5
++ one click timing feature should be used with care, it maybe not stable for you
++ please build the executable yourself or decompile the existing one if you don't trust
 
-Fork from lojkinKot
-
-works on linux with mono, executable is build against .net 3.5
-
-one click timing feature should be used with care, it maybe not stable for you
-
-please build the executable yourself or decompile the existing one if you don't trust
+## ChangeLog:
 
 ### v1.7.6
 - Fixed Samsung 2
@@ -144,3 +132,15 @@ Just change your working directory to the PolarisBiosEditor and execute:
 [Download PolarisBiosEditor v1.7.0 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor170.zip)
 -----------------------------------------------------------------------------------------------------------------
 [Download PolarisBiosEditor v1.6.7 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor-1.6.7-master.zip)
+-----------------------------------------------------------------------------------------------------------------
+
+### Buy mining bios with performance timings! https://mining-bios.eu/
+**Polaris Bios Editor 3 PRO https://mining-bios.eu/product/polaris-bios-editor-3-pro-pbe-3-pro-performance-timings/**
+
+Bios mod guide: https://bitcointalk.org/index.php?topic=1954245.0
+
+If you don't trust the EXE just build on Linux with ```sh build.sh```. Quick and easy.
+
+### Important: You need to disable SecureBoot / Activate CSM in your
+### Motherboard UEFI because the modification will make
+### the cryptographic signature invalid.
