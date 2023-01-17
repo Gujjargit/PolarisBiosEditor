@@ -127,11 +127,6 @@ Just change your working directory to the PolarisBiosEditor and execute:
 ./run.sh
 ```
 
-[Download PolarisBiosEditor v1.7.6 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor1.7.6.zip)
------------------------------------------------------------------------------------------------------------------
-[Download PolarisBiosEditor v1.7.0 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor170.zip)
------------------------------------------------------------------------------------------------------------------
-[Download PolarisBiosEditor v1.6.7 for Windows](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor-1.6.7-master.zip)
 -----------------------------------------------------------------------------------------------------------------
 
 ### Buy mining bios with performance timings! https://mining-bios.eu/
